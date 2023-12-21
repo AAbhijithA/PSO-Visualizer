@@ -3,7 +3,7 @@ import plotly.graph_objects as go
 import numpy as np
 from numpy import random
 st.set_page_config(
-    page_title="Algorithm-Visualizer",
+    page_title="PSO-Visualizer",
     page_icon="💻"
 )
 hide_streamlit_style = """
